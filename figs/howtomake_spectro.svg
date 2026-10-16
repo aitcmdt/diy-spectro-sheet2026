@@ -31,6 +31,7 @@
    <glyph unicode="グ" horiz-adv-x="1837" d="M 1567,1638 C 1584,1615 1604,1587 1624,1553 1645,1520 1664,1486 1683,1452 1703,1418 1720,1386 1735,1358 L 1624,1309 C 1604,1350 1578,1397 1546,1452 1515,1507 1485,1553 1458,1591 L 1567,1638 Z M 1792,1720 C 1810,1696 1829,1666 1850,1632 1872,1598 1892,1564 1913,1531 1933,1497 1950,1468 1964,1442 L 1853,1393 C 1832,1438 1805,1486 1774,1538 1742,1590 1712,1635 1683,1673 L 1792,1720 Z M 1702,1231 C 1694,1217 1686,1200 1677,1179 1669,1157 1662,1139 1655,1122 1637,1054 1611,979 1578,898 1545,817 1504,735 1456,652 1408,570 1354,491 1292,416 1199,302 1088,199 958,107 829,14 668,-69 477,-141 L 328,-6 C 453,31 566,75 666,128 765,181 855,239 935,303 1015,367 1085,436 1147,508 1200,571 1249,640 1292,715 1336,790 1374,865 1406,941 1438,1017 1460,1085 1473,1147 L 715,1147 780,1294 C 797,1294 827,1294 872,1294 918,1294 969,1294 1027,1294 1085,1294 1143,1294 1200,1294 1257,1294 1307,1294 1350,1294 1392,1294 1420,1294 1434,1294 1461,1294 1486,1296 1508,1298 1531,1301 1550,1306 1567,1313 L 1702,1231 Z M 1016,1540 C 999,1513 983,1484 967,1454 950,1424 937,1399 926,1380 886,1305 836,1224 774,1138 713,1051 639,965 554,880 469,794 371,715 262,643 L 119,748 C 208,801 287,858 357,919 428,979 489,1041 542,1104 594,1167 639,1227 676,1285 713,1343 742,1395 764,1440 775,1458 787,1482 800,1515 813,1547 822,1576 827,1604 L 1016,1540 Z "/>
    <glyph unicode="を" horiz-adv-x="1605" d="M 942,1620 C 934,1579 923,1531 910,1476 897,1420 877,1358 848,1288 823,1227 793,1163 757,1098 721,1032 682,973 641,920 667,936 696,950 729,962 762,973 796,982 830,987 865,993 897,995 926,995 1005,995 1072,973 1126,929 1181,884 1208,820 1208,735 1208,709 1208,676 1208,636 1208,596 1209,553 1209,509 1210,465 1211,421 1212,379 1214,337 1214,300 1214,268 L 1057,268 C 1058,296 1059,328 1061,365 1062,401 1063,440 1064,481 1065,522 1065,561 1064,598 1063,635 1063,666 1063,692 1063,752 1045,796 1009,824 972,852 927,866 872,866 808,866 745,852 683,824 621,796 567,760 520,717 490,688 460,656 431,620 402,583 369,545 334,504 L 195,606 C 293,702 375,791 440,874 506,958 559,1035 600,1107 641,1179 673,1243 696,1300 718,1358 736,1416 750,1474 763,1532 771,1585 774,1634 L 942,1620 Z M 242,1399 C 296,1392 356,1386 420,1382 484,1378 540,1376 588,1376 679,1376 778,1379 883,1383 988,1388 1094,1395 1201,1405 1308,1414 1410,1428 1507,1446 L 1505,1294 C 1434,1282 1359,1272 1278,1265 1197,1257 1115,1251 1032,1246 949,1241 869,1238 792,1236 714,1234 643,1233 578,1233 549,1233 516,1233 478,1234 441,1235 401,1236 360,1238 319,1240 280,1242 242,1245 L 242,1399 Z M 1806,903 C 1789,899 1769,893 1748,886 1727,878 1706,870 1684,862 1663,854 1643,846 1624,838 1553,810 1470,777 1376,737 1282,698 1186,652 1087,600 1019,566 959,530 907,493 855,455 814,416 784,376 754,336 739,292 739,244 739,204 749,172 767,147 785,123 812,104 846,91 880,78 919,70 964,66 1008,61 1057,59 1110,59 1189,59 1280,64 1381,73 1483,82 1579,94 1669,109 L 1665,-55 C 1613,-62 1555,-68 1490,-74 1425,-79 1360,-84 1293,-87 1227,-90 1164,-92 1104,-92 1007,-92 919,-83 839,-66 759,-48 695,-16 647,29 599,74 575,138 575,221 575,283 590,339 618,390 647,441 686,488 734,530 783,573 836,612 895,648 954,684 1014,717 1075,748 1141,783 1203,814 1261,840 1319,866 1374,890 1425,911 1477,933 1526,955 1571,977 1601,991 1630,1004 1657,1016 1684,1028 1711,1042 1739,1057 L 1806,903 Z "/>
    <glyph unicode="る" horiz-adv-x="1517" d="M 487,1509 C 511,1507 536,1505 562,1503 589,1502 612,1501 633,1501 653,1501 687,1502 734,1503 781,1505 835,1506 894,1508 953,1510 1013,1512 1072,1514 1132,1517 1185,1519 1232,1522 1279,1524 1313,1526 1335,1528 1365,1531 1389,1533 1405,1536 1421,1539 1435,1541 1446,1544 L 1540,1425 C 1522,1413 1504,1400 1484,1386 1464,1373 1445,1358 1425,1341 1399,1322 1365,1295 1321,1258 1277,1222 1229,1182 1177,1138 1124,1093 1072,1050 1022,1008 971,965 926,927 885,893 933,909 981,921 1029,927 1078,933 1124,936 1169,936 1283,936 1383,915 1471,873 1560,832 1628,775 1678,702 1728,630 1753,548 1753,455 1753,345 1724,250 1667,168 1610,86 1528,23 1423,-21 1318,-66 1193,-88 1049,-88 956,-88 876,-76 809,-51 742,-27 691,8 654,51 618,95 600,145 600,203 600,249 613,293 639,334 665,375 702,408 750,432 797,457 853,469 915,469 1007,469 1083,450 1143,413 1203,375 1249,326 1282,265 1315,204 1333,139 1337,70 L 1190,45 C 1184,132 1157,204 1109,261 1061,318 995,346 913,346 867,346 828,333 797,307 765,281 750,251 750,215 750,166 775,127 825,98 876,70 941,55 1022,55 1138,55 1239,71 1324,102 1409,134 1475,180 1521,240 1566,300 1589,372 1589,457 1589,524 1569,584 1530,637 1490,690 1436,732 1367,763 1298,794 1219,809 1131,809 1044,809 967,800 899,781 831,763 767,737 708,702 648,668 589,626 531,574 473,523 412,465 346,399 L 229,520 C 272,554 318,593 370,636 421,679 472,722 524,765 576,808 624,848 669,886 713,923 750,954 780,979 809,1002 845,1032 888,1068 931,1104 976,1142 1022,1182 1068,1221 1112,1259 1154,1294 1196,1330 1229,1359 1255,1380 1234,1380 1201,1379 1159,1377 1117,1375 1070,1373 1018,1371 966,1369 914,1367 863,1364 812,1361 766,1359 724,1357 682,1355 651,1353 629,1352 607,1350 584,1349 561,1348 538,1346 515,1343 494,1339 L 487,1509 Z "/>
+   <glyph unicode="よ" horiz-adv-x="1487" d="M 1108,1608 C 1107,1594 1105,1575 1103,1550 1101,1526 1099,1500 1097,1475 1095,1449 1094,1425 1094,1405 1094,1359 1094,1302 1094,1235 1094,1168 1094,1100 1094,1030 1094,974 1095,909 1099,835 1102,760 1106,684 1109,606 1112,528 1116,455 1119,386 1123,317 1124,261 1124,217 1124,175 1118,135 1104,97 1090,60 1069,27 1039,-2 1010,-31 971,-53 924,-70 876,-86 818,-94 750,-94 655,-94 571,-83 498,-61 424,-40 366,-5 323,42 280,89 258,152 258,229 258,291 276,347 313,397 350,448 407,488 483,519 560,550 657,565 774,565 875,565 973,554 1068,530 1163,507 1252,476 1336,438 1420,400 1497,357 1568,310 1638,263 1699,216 1751,170 L 1653,14 C 1602,66 1544,116 1478,165 1411,213 1339,257 1262,296 1184,335 1102,366 1017,388 931,411 844,422 754,422 647,422 565,405 508,371 451,337 422,291 422,236 422,180 449,136 504,105 558,75 635,59 733,59 808,59 864,77 901,112 938,146 956,199 956,270 956,309 955,359 952,423 950,486 947,555 944,629 941,702 939,774 936,845 933,915 932,977 932,1030 932,1070 932,1113 932,1159 932,1206 932,1251 932,1295 932,1340 931,1376 930,1405 930,1430 929,1455 928,1482 926,1508 925,1533 923,1555 921,1578 918,1595 913,1608 L 1108,1608 Z M 1004,1196 C 1038,1196 1083,1197 1139,1198 1195,1199 1255,1201 1321,1204 1386,1207 1452,1211 1518,1215 1583,1220 1644,1226 1700,1233 L 1706,1079 C 1650,1074 1589,1069 1523,1065 1456,1061 1391,1057 1325,1054 1260,1050 1198,1048 1142,1047 1085,1045 1039,1044 1004,1044 L 1004,1196 Z "/>
    <glyph unicode="む" horiz-adv-x="1693" d="M 762,1624 C 759,1602 756,1574 754,1539 751,1504 750,1468 750,1430 750,1405 750,1365 750,1311 750,1256 750,1196 750,1132 750,1067 750,1005 750,945 750,886 750,838 750,803 L 598,885 C 598,913 598,952 598,1001 598,1051 598,1103 598,1159 598,1215 598,1268 598,1317 598,1366 598,1404 598,1430 598,1470 597,1508 594,1541 591,1575 587,1602 582,1624 L 762,1624 Z M 1479,1417 C 1509,1397 1542,1371 1580,1340 1618,1310 1655,1277 1694,1241 1732,1206 1768,1170 1802,1136 1836,1101 1865,1069 1888,1040 L 1774,924 C 1741,967 1700,1014 1652,1063 1603,1112 1554,1159 1505,1203 1456,1248 1412,1283 1374,1311 L 1479,1417 Z M 188,1352 C 250,1342 307,1335 358,1330 410,1325 461,1323 512,1323 610,1323 714,1331 823,1347 933,1362 1039,1384 1143,1411 L 1143,1253 C 1073,1238 1001,1225 927,1214 852,1204 781,1195 712,1189 643,1183 580,1180 522,1180 479,1180 428,1181 372,1185 315,1188 257,1193 197,1200 L 188,1352 Z M 698,428 C 697,414 696,396 694,372 693,348 692,323 690,296 689,269 688,245 688,223 688,196 692,172 698,152 705,131 719,115 740,102 762,90 794,81 839,75 883,69 942,66 1016,66 1054,66 1095,67 1140,71 1184,74 1226,79 1267,84 1307,89 1339,96 1364,102 1417,117 1459,142 1489,177 1519,212 1534,263 1534,330 1534,371 1533,410 1531,446 1529,483 1526,522 1522,561 L 1696,508 C 1697,481 1698,455 1698,432 1698,409 1698,386 1699,364 1700,341 1698,315 1696,287 1693,223 1682,169 1664,126 1646,83 1618,48 1580,20 1542,-7 1492,-29 1430,-45 1399,-53 1360,-60 1311,-67 1262,-73 1210,-77 1155,-81 1100,-84 1051,-86 1006,-86 924,-86 855,-82 799,-75 743,-67 697,-56 663,-42 628,-28 601,-10 583,10 564,31 552,54 545,79 538,104 535,132 535,164 535,201 536,237 538,272 540,308 541,342 543,375 L 698,428 Z M 801,700 C 801,654 796,605 785,554 775,503 758,455 733,410 709,365 675,328 633,299 591,270 537,256 471,256 433,256 393,267 352,288 311,309 277,343 249,390 221,437 207,500 207,580 207,649 221,715 249,776 277,838 316,887 367,926 417,964 476,983 543,983 626,983 690,956 734,903 779,850 801,782 801,700 Z M 487,408 C 530,408 563,422 587,450 611,478 628,514 638,558 648,602 653,647 653,692 653,741 642,780 621,808 599,836 570,850 535,850 500,850 469,839 440,816 412,794 389,763 372,724 355,685 346,640 346,588 346,530 360,486 389,455 418,423 451,408 487,408 Z "/>
    <glyph unicode="み" horiz-adv-x="1787" d="M 457,1501 C 483,1500 510,1498 538,1497 566,1496 590,1495 610,1495 638,1495 673,1496 716,1497 759,1498 803,1501 850,1503 896,1506 940,1508 981,1510 1022,1512 1053,1514 1073,1516 1094,1518 1112,1521 1129,1525 1147,1528 1162,1533 1176,1538 L 1278,1454 C 1268,1443 1259,1432 1250,1421 1241,1410 1233,1399 1225,1387 1203,1351 1177,1301 1147,1236 1117,1171 1085,1101 1052,1025 1018,949 985,877 952,807 932,760 910,710 886,656 862,602 838,548 813,493 788,437 764,386 740,338 716,290 694,251 672,219 635,167 596,131 555,110 514,88 467,78 414,78 337,78 274,103 223,154 173,204 147,272 147,358 147,435 165,506 200,572 234,639 283,696 345,745 407,795 482,833 568,860 655,887 750,901 854,901 969,901 1080,888 1187,861 1294,835 1394,800 1488,759 1581,717 1667,673 1744,628 1821,582 1887,539 1942,500 L 1866,324 C 1806,375 1738,427 1663,478 1588,529 1506,576 1417,619 1328,661 1235,695 1136,721 1037,747 935,760 829,760 717,760 622,741 542,703 462,666 401,618 359,560 318,502 297,442 297,379 297,334 310,299 335,275 360,252 388,240 420,240 443,240 464,245 483,256 502,267 522,285 543,311 565,340 586,375 608,416 630,457 652,501 674,549 696,597 717,645 737,694 758,743 778,789 799,831 826,892 854,954 882,1018 910,1082 938,1144 966,1204 994,1264 1019,1319 1042,1368 1022,1367 993,1365 955,1364 918,1363 877,1361 834,1359 790,1357 749,1355 710,1353 671,1351 640,1349 616,1348 595,1346 570,1345 543,1342 515,1340 489,1338 465,1335 L 457,1501 Z M 1737,1053 C 1730,908 1716,776 1694,657 1672,539 1638,431 1593,336 1548,240 1487,155 1409,79 1331,3 1233,-64 1114,-123 L 979,-10 C 1099,40 1197,101 1272,171 1347,241 1405,317 1447,398 1489,480 1518,562 1535,645 1552,728 1564,808 1571,883 1572,914 1573,946 1574,979 1575,1012 1574,1042 1571,1071 L 1737,1053 Z "/>
    <glyph unicode="は" horiz-adv-x="1703" d="M 817,1210 C 876,1205 933,1201 989,1198 1045,1195 1104,1194 1165,1194 1288,1194 1410,1199 1532,1208 1653,1218 1766,1233 1870,1253 L 1870,1096 C 1761,1078 1646,1065 1525,1057 1404,1049 1283,1044 1161,1042 1103,1042 1046,1044 990,1047 935,1049 877,1053 817,1057 L 817,1210 Z M 1534,1577 C 1531,1556 1529,1536 1527,1516 1525,1495 1523,1475 1522,1454 1520,1430 1519,1398 1518,1360 1516,1322 1516,1281 1516,1238 1516,1195 1516,1153 1516,1112 1516,1034 1517,956 1520,879 1522,801 1526,725 1530,651 1534,578 1538,508 1541,443 1545,379 1546,319 1546,266 1546,225 1540,185 1529,145 1517,106 1498,70 1471,39 1445,8 1409,-17 1363,-36 1317,-54 1260,-63 1192,-63 1054,-63 949,-38 876,14 802,66 766,138 766,229 766,287 783,339 816,386 850,433 897,470 959,498 1022,525 1098,539 1188,539 1275,539 1355,529 1428,509 1502,489 1569,463 1631,431 1693,399 1750,364 1802,325 1854,286 1902,247 1946,209 L 1855,72 C 1784,140 1713,199 1641,250 1570,300 1496,340 1419,369 1343,397 1262,412 1176,412 1098,412 1035,396 986,366 938,335 913,295 913,246 913,194 937,154 983,126 1029,98 1090,84 1163,84 1222,84 1267,94 1299,113 1332,132 1354,158 1367,190 1380,223 1387,262 1387,307 1387,344 1385,394 1382,457 1380,520 1376,588 1372,663 1368,737 1365,813 1362,891 1359,969 1358,1042 1358,1110 1358,1180 1358,1245 1358,1307 1358,1368 1358,1417 1358,1452 1358,1470 1357,1491 1356,1515 1354,1538 1352,1559 1350,1577 L 1534,1577 Z M 522,1565 C 518,1554 514,1540 509,1523 504,1506 500,1488 497,1470 493,1453 490,1438 487,1425 479,1387 471,1342 462,1289 453,1237 444,1180 434,1119 425,1058 416,997 409,935 401,873 395,813 391,756 387,698 385,646 385,600 385,551 387,504 390,459 394,414 399,366 406,315 416,347 429,380 442,416 456,451 470,487 484,522 499,558 511,589 522,616 L 606,551 C 590,504 572,452 552,394 532,336 514,281 497,228 480,176 468,132 461,98 458,85 456,69 454,51 452,33 451,18 453,6 453,-3 453,-15 454,-29 454,-42 455,-55 457,-66 L 313,-76 C 293,-2 275,90 259,200 243,310 236,433 236,571 236,648 239,727 247,810 254,893 263,973 273,1053 284,1132 294,1205 304,1271 314,1337 323,1391 330,1434 332,1457 335,1481 338,1507 341,1533 342,1557 342,1579 L 522,1565 Z "/>
@@ -174,114 +175,122 @@
     <path fill="none" stroke="rgb(102,102,102)" stroke-width="100" stroke-linejoin="round" d="M 8770,9505 L 8270,9505 8270,8505 9270,8505 9270,9505 8770,9505 Z "/>
    </g>
   </g>
-  <g class="com.sun.star.drawing.LineShape">
-   <g id="id18">
-    <rect class="BoundingBox" stroke="none" fill="none" x="8470" y="9005" width="601" height="101"/>
-    <path fill="none" stroke="rgb(238,238,238)" stroke-width="100" stroke-linejoin="round" d="M 8520,9055 L 9020,9055 "/>
-   </g>
-  </g>
-  <g class="com.sun.star.drawing.LineShape">
-   <g id="id19">
-    <rect class="BoundingBox" stroke="none" fill="none" x="8470" y="9055" width="601" height="101"/>
-    <path fill="none" stroke="rgb(221,221,221)" stroke-width="100" stroke-linejoin="round" d="M 8520,9105 L 9020,9105 "/>
-   </g>
-  </g>
-  <g class="com.sun.star.drawing.LineShape">
-   <g id="id20">
-    <rect class="BoundingBox" stroke="none" fill="none" x="8470" y="9105" width="601" height="101"/>
-    <path fill="none" stroke="rgb(178,178,178)" stroke-width="100" stroke-linejoin="round" d="M 8520,9155 L 9020,9155 "/>
-   </g>
-  </g>
-  <g class="com.sun.star.drawing.LineShape">
-   <g id="id21">
-    <rect class="BoundingBox" stroke="none" fill="none" x="8470" y="9155" width="601" height="101"/>
-    <path fill="none" stroke="rgb(153,153,153)" stroke-width="100" stroke-linejoin="round" d="M 8520,9205 L 9020,9205 "/>
-   </g>
-  </g>
-  <g class="com.sun.star.drawing.LineShape">
-   <g id="id22">
-    <rect class="BoundingBox" stroke="none" fill="none" x="8470" y="9205" width="601" height="101"/>
-    <path fill="none" stroke="rgb(128,128,128)" stroke-width="100" stroke-linejoin="round" d="M 8520,9255 L 9020,9255 "/>
-   </g>
-  </g>
   <g class="TextShape">
-   <g id="id23">
+   <g id="id18">
     <rect class="BoundingBox" stroke="none" fill="none" x="7500" y="6860" width="5913" height="891"/>
     <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="7750" y="7514"><tspan font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="647" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">(2)</tspan><tspan font-family="Noto Sans JP, sans-serif" font-size="529px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="4763" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">グレーチングシート</tspan></tspan></tspan></text>
    </g>
   </g>
   <g class="TextShape">
-   <g id="id24">
-    <rect class="BoundingBox" stroke="none" fill="none" x="9958" y="8737" width="3149" height="887"/>
-    <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="10208" y="9391"><tspan font-family="Noto Sans JP, sans-serif" font-size="529px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="2646" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">虹の向きは</tspan></tspan></tspan></text>
+   <g id="id19">
+    <rect class="BoundingBox" stroke="none" fill="none" x="9558" y="8737" width="3149" height="887"/>
+    <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9808" y="9391"><tspan font-family="Noto Sans JP, sans-serif" font-size="529px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="2646" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">虹の向きは</tspan></tspan></tspan></text>
    </g>
   </g>
   <g class="com.sun.star.drawing.LineShape">
-   <g id="id25">
-    <rect class="BoundingBox" stroke="none" fill="none" x="9520" y="8480" width="377" height="1026"/>
-    <path fill="none" stroke="rgb(102,102,102)" stroke-width="50" stroke-linejoin="round" d="M 9708,8505 L 9708,9280 "/>
-    <path fill="rgb(102,102,102)" stroke="none" d="M 9708,9505 L 9896,9255 9858,9283 9813,9306 9764,9321 9710,9327 9657,9322 9606,9307 9560,9285 9521,9255 9708,9505 Z "/>
+   <g id="id20">
+    <rect class="BoundingBox" stroke="none" fill="none" x="8362" y="9589" width="946" height="377"/>
+    <path fill="none" stroke="rgb(102,102,102)" stroke-width="50" stroke-linejoin="round" d="M 8387,9776 L 9082,9778 "/>
+    <path fill="rgb(102,102,102)" stroke="none" d="M 9307,9778 L 9057,9590 9086,9628 9108,9673 9123,9722 9129,9775 9124,9829 9109,9880 9086,9926 9057,9965 9307,9778 Z "/>
    </g>
   </g>
   <g class="TextShape">
-   <g id="id26">
+   <g id="id21">
     <rect class="BoundingBox" stroke="none" fill="none" x="6480" y="9000" width="1921" height="591"/>
     <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="6730" y="9409"><tspan font-family="Noto Sans JP, sans-serif" font-size="282px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1418" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">ここにはる</tspan></tspan></tspan></text>
    </g>
   </g>
   <g class="TextShape">
-   <g id="id27">
-    <rect class="BoundingBox" stroke="none" fill="none" x="9958" y="8500" width="926" height="506"/>
-    <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="10208" y="8837"><tspan font-family="Noto Sans JP, sans-serif" font-size="212px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="423" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">にじ</tspan></tspan></tspan></text>
+   <g id="id22">
+    <rect class="BoundingBox" stroke="none" fill="none" x="9558" y="8500" width="926" height="506"/>
+    <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9808" y="8837"><tspan font-family="Noto Sans JP, sans-serif" font-size="212px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="423" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">にじ</tspan></tspan></tspan></text>
    </g>
   </g>
   <g class="TextShape">
-   <g id="id28">
-    <rect class="BoundingBox" stroke="none" fill="none" x="11250" y="8500" width="1218" height="506"/>
-    <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="11500" y="8837"><tspan font-family="Noto Sans JP, sans-serif" font-size="212px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="212" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">む</tspan></tspan></tspan></text>
+   <g id="id23">
+    <rect class="BoundingBox" stroke="none" fill="none" x="10850" y="8500" width="1218" height="506"/>
+    <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="11100" y="8837"><tspan font-family="Noto Sans JP, sans-serif" font-size="212px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="212" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">む</tspan></tspan></tspan></text>
    </g>
   </g>
   <g class="TextShape">
-   <g id="id29">
+   <g id="id24">
     <rect class="BoundingBox" stroke="none" fill="none" x="2573" y="6750" width="4631" height="1022"/>
     <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2823" y="7510"><tspan font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="953" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">(1) </tspan><tspan font-family="Noto Sans JP, sans-serif" font-size="635px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="3175" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">台紙を切る</tspan></tspan></tspan></text>
    </g>
   </g>
   <g class="TextShape">
-   <g id="id30">
+   <g id="id25">
     <rect class="BoundingBox" stroke="none" fill="none" x="4000" y="6500" width="1251" height="506"/>
     <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4250" y="6837"><tspan font-family="Noto Sans JP, sans-serif" font-size="212px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="635" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">だいし</tspan></tspan></tspan></text>
    </g>
   </g>
   <g class="TextShape">
-   <g id="id31">
+   <g id="id26">
     <rect class="BoundingBox" stroke="none" fill="none" x="5750" y="6500" width="1251" height="506"/>
     <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="6000" y="6837"><tspan font-family="Noto Sans JP, sans-serif" font-size="212px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="212" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">き</tspan></tspan></tspan></text>
    </g>
   </g>
   <g class="TextShape">
-   <g id="id32">
+   <g id="id27">
     <rect class="BoundingBox" stroke="none" fill="none" x="7595" y="10729" width="4656" height="1022"/>
     <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="7845" y="11489"><tspan font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="953" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">(3) </tspan><tspan font-family="Noto Sans JP, sans-serif" font-size="635px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="3200" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">くみたてる</tspan></tspan></tspan></text>
    </g>
   </g>
   <g class="TextShape">
-   <g id="id33">
+   <g id="id28">
     <rect class="BoundingBox" stroke="none" fill="none" x="11160" y="7364" width="2091" height="887"/>
     <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="11412" y="8018"><tspan font-family="Noto Sans JP, sans-serif" font-size="529px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1588" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">をはる</tspan></tspan></tspan></text>
    </g>
   </g>
   <g class="com.sun.star.drawing.OpenBezierShape">
-   <g id="id34">
+   <g id="id29">
     <rect class="BoundingBox" stroke="none" fill="none" x="6866" y="8489" width="1311" height="513"/>
     <path fill="none" stroke="rgb(102,102,102)" stroke-width="50" stroke-linejoin="round" d="M 8150,8750 C 7150,8250 7105,8672 6974,8862 "/>
     <path fill="rgb(102,102,102)" stroke="none" d="M 7107,8910 L 6900,9000 6866,8777 7107,8910 Z "/>
    </g>
   </g>
   <g class="TextShape">
-   <g id="id35">
-    <rect class="BoundingBox" stroke="none" fill="none" x="10000" y="9364" width="3170" height="887"/>
-    <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="10250" y="10018"><tspan font-family="Noto Sans JP, sans-serif" font-size="529px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="2651" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">たてにする</tspan></tspan></tspan></text>
+   <g id="id30">
+    <rect class="BoundingBox" stroke="none" fill="none" x="9600" y="9364" width="3170" height="887"/>
+    <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9850" y="10018"><tspan font-family="Noto Sans JP, sans-serif" font-size="529px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="2651" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">よこにする</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="Group">
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id31">
+     <rect class="BoundingBox" stroke="none" fill="none" x="8870" y="8901" width="101" height="601"/>
+     <path fill="none" stroke="rgb(238,238,238)" stroke-width="100" stroke-linejoin="round" d="M 8920,8951 L 8920,9451 "/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id32">
+     <rect class="BoundingBox" stroke="none" fill="none" x="8816" y="8905" width="101" height="601"/>
+     <path fill="none" stroke="rgb(221,221,221)" stroke-width="100" stroke-linejoin="round" d="M 8866,8955 L 8866,9455 "/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id33">
+     <rect class="BoundingBox" stroke="none" fill="none" x="8766" y="8905" width="101" height="601"/>
+     <path fill="none" stroke="rgb(178,178,178)" stroke-width="100" stroke-linejoin="round" d="M 8816,8955 L 8816,9455 "/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id34">
+     <rect class="BoundingBox" stroke="none" fill="none" x="8716" y="8905" width="101" height="601"/>
+     <path fill="none" stroke="rgb(153,153,153)" stroke-width="100" stroke-linejoin="round" d="M 8766,8955 L 8766,9455 "/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id35">
+     <rect class="BoundingBox" stroke="none" fill="none" x="8666" y="8905" width="101" height="601"/>
+     <path fill="none" stroke="rgb(128,128,128)" stroke-width="100" stroke-linejoin="round" d="M 8716,8955 L 8716,9455 "/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id36">
+     <rect class="BoundingBox" stroke="none" fill="none" x="8566" y="8905" width="101" height="601"/>
+     <path fill="none" stroke="rgb(17,17,17)" stroke-width="100" stroke-linejoin="round" d="M 8616,8955 L 8616,9455 "/>
+    </g>
    </g>
   </g>
  </g>
