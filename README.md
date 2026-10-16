@@ -3,11 +3,13 @@
 手作りの箱と回折格子（グレーチングシート）を使って、光を波長ごとに分けて観察する装置です。
 
 ## 1. 用意するもの
-- 工作用台紙（[spectroscope_template.pdf](spectroscope_body_template_095.pdf) を等倍印刷したもの）
+- 工作用台紙（ [spectroscope_1000pmm_body_template_095.pdf](spectroscope_1000pmm_body_template_095.pdf)を等倍印刷したもの）
 - 厚紙（台紙を貼るか、厚紙に直接印刷）
 - レプリカグレーチングシート（1000本/mm）
 - ハサミ、カッター、定規
 - 両面テープまたはセロハンテープ、黒いビニールテープ（遮光用）
+
+※ グレーチングシートが500本/mmのものを用意した場合は、台紙は[こちら](spectroscope_body_template_095.pdf)です。
 
 ## 2. 作り方のポイント
 - **スリットは細くまっすぐに**：幅0.5mm〜1mm程度がベストです。
