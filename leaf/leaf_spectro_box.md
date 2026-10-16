@@ -145,7 +145,7 @@ https://aitcmdt.github.io/diy-spectro-sheet2026/
 
 <span style="font-size: 0.3em;text-align: right; line-height: 1.0;"> 
 
-ver 2026.10.15
+ver 2026.10.16
 
 </span>
 </div></div>
