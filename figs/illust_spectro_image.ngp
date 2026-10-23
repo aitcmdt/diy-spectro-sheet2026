@@ -1,0 +1,503 @@
+#!ngraph
+#%creator: Ngraph for Windows
+#%version: 6.03
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='6600 14000 8000 14400 11200 14400'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='8000 14400 8000 16800'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='2000 15400 2400 15200'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='1800 15200 2200 14800'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='2200 16000 2600 16000'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='2200 16400 2600 16600'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='2000 16600 2400 17000'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='4400 15000 5800 15000'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=end
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=128
+	line::G=128
+	line::B=128
+	line::clip=true
+	line::redraw_flag=true
+	line::points='10000 15200 10800 15600'
+	line::width=80
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=128
+	line::G=128
+	line::B=128
+	line::clip=true
+	line::redraw_flag=true
+	line::points='10000 14800 10800 15200'
+	line::width=80
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='11400 15800 12400 15600'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=end
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='11400 15400 12400 14800'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=end
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='11400 15000 12400 14000'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=end
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=128
+	line::G=128
+	line::B=128
+	line::clip=true
+	line::redraw_flag=true
+	line::points='7600 15800 9600 15400'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=end
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='14200 16400 14200 17400 13600 18200'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='13600 16800 14200 16800 13600 17200'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new line
+	line::hidden=false
+	line::R=0
+	line::G=0
+	line::B=0
+	line::clip=true
+	line::redraw_flag=true
+	line::points='14200 17400 14600 18200'
+	line::width=40
+	line::style=
+	line::join=miter
+	line::miter_limit=1000
+	line::arrow=none
+	line::arrow_length=72426
+	line::arrow_width=60000
+
+new arc
+	arc::hidden=false
+	arc::R=0
+	arc::G=0
+	arc::B=0
+	arc::clip=true
+	arc::redraw_flag=true
+	arc::x=1400
+	arc::y=16000
+	arc::rx=600
+	arc::ry=600
+	arc::angle1=0
+	arc::angle2=36000
+	arc::fill=false
+	arc::pieslice=true
+	arc::width=40
+	arc::style=
+
+new arc
+	arc::hidden=false
+	arc::R=0
+	arc::G=0
+	arc::B=0
+	arc::clip=true
+	arc::redraw_flag=true
+	arc::x=14200
+	arc::y=15800
+	arc::rx=600
+	arc::ry=600
+	arc::angle1=0
+	arc::angle2=36000
+	arc::fill=false
+	arc::pieslice=true
+	arc::width=40
+	arc::style=
+
+new polygon
+	polygon::hidden=false
+	polygon::R=0
+	polygon::G=0
+	polygon::B=0
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='6600 14000 6600 16400 8000 16800 11200 16800 11200 14400 9800 14000'
+	polygon::fill=empty
+	polygon::width=40
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new polygon
+	polygon::hidden=false
+	polygon::R=0
+	polygon::G=0
+	polygon::B=0
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='7000 15600 7000 15800 7400 16000 7400 15800'
+	polygon::fill=empty
+	polygon::width=40
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new polygon
+	polygon::hidden=false
+	polygon::R=255
+	polygon::G=0
+	polygon::B=0
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='3600 15200 3600 15800 4200 16400 4200 15800'
+	polygon::fill=even_odd_rule
+	polygon::width=40
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new polygon
+	polygon::hidden=false
+	polygon::R=0
+	polygon::G=255
+	polygon::B=0
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='3200 15200 3200 15800 3800 16400 3800 15800'
+	polygon::fill=even_odd_rule
+	polygon::width=40
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new polygon
+	polygon::hidden=false
+	polygon::R=0
+	polygon::G=0
+	polygon::B=255
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='2800 15200 2800 15800 3400 16400 3400 15800'
+	polygon::fill=even_odd_rule
+	polygon::width=40
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new polygon
+	polygon::hidden=false
+	polygon::R=255
+	polygon::G=0
+	polygon::B=0
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='12600 13400 12600 14000 13200 14600 13200 14000'
+	polygon::fill=even_odd_rule
+	polygon::width=40
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new polygon
+	polygon::hidden=false
+	polygon::R=0
+	polygon::G=255
+	polygon::B=0
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='12600 14200 12600 14800 13200 15400 13200 14800'
+	polygon::fill=even_odd_rule
+	polygon::width=40
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new polygon
+	polygon::hidden=false
+	polygon::R=0
+	polygon::G=0
+	polygon::B=255
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='12600 15000 12600 15600 13200 16200 13200 15600'
+	polygon::fill=even_odd_rule
+	polygon::width=40
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new polygon
+	polygon::hidden=false
+	polygon::R=255
+	polygon::G=243
+	polygon::B=206
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='4400 15600 5400 15600 5400 15200 6200 16000 5400 16600 5400 16200 4400 16200'
+	polygon::fill=even_odd_rule
+	polygon::width=40
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new polygon
+	polygon::hidden=false
+	polygon::R=128
+	polygon::G=128
+	polygon::B=128
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='10000 14400 10800 14800 10800 16000 10000 15600'
+	polygon::fill=empty
+	polygon::width=80
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new polygon
+	polygon::hidden=false
+	polygon::R=0
+	polygon::G=0
+	polygon::B=0
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='15200 15000 15000 15200 15400 15000'
+	polygon::fill=empty
+	polygon::width=40
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new polygon
+	polygon::hidden=false
+	polygon::R=0
+	polygon::G=0
+	polygon::B=0
+	polygon::clip=true
+	polygon::redraw_flag=true
+	polygon::points='16000 14200 15400 14800 16200 14400'
+	polygon::fill=empty
+	polygon::width=40
+	polygon::style=
+	polygon::join=miter
+	polygon::miter_limit=1000
+
+new mark
+	mark::hidden=false
+	mark::R=0
+	mark::G=0
+	mark::B=0
+	mark::clip=true
+	mark::redraw_flag=true
+	mark::x=13800
+	mark::y=15600
+	mark::size=300
+	mark::type=0
+	mark::R2=255
+	mark::G2=255
+	mark::B2=255
+	mark::width=40
+	mark::style=
+
+new gra name:viewer
+	gra::left_margin=0
+	gra::top_margin=0
+	gra::zoom=10000
+	gra::paper_width=21000
+	gra::paper_height=29700
+	gra::draw_obj='axisgrid axis file merge rectangle line curve arc polygon mark text'
