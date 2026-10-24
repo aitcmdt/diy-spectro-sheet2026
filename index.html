@@ -3,71 +3,79 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>手作り分光器 台紙データ</title>
+  <title>じぶんでつくる！手作り分光器の台紙</title>
   <style>
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-      line-height: 1.6;
+      font-family: "Hiragino Kaku Gothic ProN", "Meiryo", -apple-system, BlinkMacSystemFont, sans-serif;
+      line-height: 1.8;
       color: #333;
       max-width: 640px;
       margin: 0 auto;
-      padding: 24px 16px;
-      background-color: #f9f9f9;
+      padding: 20px 16px;
+      background-color: #f8f9fa;
     }
     .card {
       background: #fff;
+      border: 1px solid #d0d7de;
       border-radius: 8px;
       padding: 24px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     }
     h1 {
       font-size: 1.35rem;
       margin-top: 0;
-      color: #1a1a1a;
+      color: #1f2328;
       border-bottom: 2px solid #0969da;
       padding-bottom: 8px;
+      line-height: 1.5;
     }
     h2 {
-      font-size: 1.05rem;
-      margin-top: 24px;
-      margin-bottom: 8px;
-      color: #24292f;
+      font-size: 1.1rem;
+      margin-top: 28px;
+      margin-bottom: 10px;
+      color: #1f2328;
       border-left: 4px solid #0969da;
-      padding-left: 8px;
+      padding-left: 10px;
+      line-height: 1.5;
     }
+    .intro {
+      font-size: 0.95rem;
+      background: #f6f8fa;
+      border: 1px solid #d0d7de;
+      padding: 12px 16px;
+      border-radius: 6px;
+      margin-bottom: 20px;
+    }
+    /* 安全警告 */
     .warning {
       background-color: #ffebe9;
-      border-left: 4px solid #cf222e;
+      border: 2px solid #cf222e;
       padding: 12px 16px;
-      margin: 18px 0;
-      border-radius: 4px;
+      margin: 20px 0;
+      border-radius: 6px;
       color: #cf222e;
       font-weight: bold;
       font-size: 0.95rem;
     }
+    .warning-title {
+      display: block;
+      margin-bottom: 4px;
+    }
     
-    .file-download-box {
-      border: 2px solid #0969da;
+    /* リンク枠 */
+    .link-section {
       background-color: #f6f8fa;
+      border: 1px solid #d0d7de;
       border-radius: 6px;
-      padding: 16px 20px;
-      margin: 24px 0;
+      padding: 14px 16px;
+      margin: 16px 0;
     }
-    .file-download-label {
-      font-size: 0.85rem;
-      color: #57606a;
-      font-weight: bold;
-      margin-bottom: 6px;
-    }
-    .file-link {
-      display: inline-block;
-      font-size: 1.15rem;
+    .doc-link {
+      font-size: 1.05rem;
       font-weight: bold;
       color: #0969da;
       text-decoration: underline;
-      line-height: 1.4;
     }
-    .file-link:hover {
+    .doc-link:hover {
       color: #044289;
       text-decoration: none;
     }
@@ -76,9 +84,10 @@
       color: #57606a;
       margin-top: 6px;
     }
+
     .note-box {
       font-size: 0.9rem;
-      background: #f6f8fa;
+      background: #ffffff;
       border: 1px solid #d0d7de;
       padding: 12px 16px;
       border-radius: 6px;
@@ -88,88 +97,128 @@
       margin: 6px 0;
       padding-left: 20px;
     }
+    .parent-section {
+      margin-top: 36px;
+      border-top: 1px solid #d0d7de;
+      padding-top: 20px;
+    }
+    .parent-tag {
+      display: inline-block;
+      background: #656d76;
+      color: #fff;
+      font-size: 0.75rem;
+      font-weight: bold;
+      padding: 2px 8px;
+      border-radius: 4px;
+      margin-bottom: 8px;
+    }
     .external-link {
       color: #0969da;
       word-break: break-all;
+    }
+    ruby rt {
+      font-size: 0.62em;
+      color: #57606a;
+      user-select: none;
+    }
+    .warning ruby rt {
+      color: #cf222e;
     }
   </style>
 </head>
 <body>
   <div class="card">
-    <h1>手作り分光器 台紙データ</h1>
-    <p>科学イベントで配布したグレーチングシート（回折格子）を使って作る、手作り分光器のペーパークラフト台紙です。</p>
-
-    <div class="warning">
-      【安全上の注意】<br>
-      完成した分光器で、絶対に太陽を直接見てはいけません（失明の危険があります）。
+    <h1>じぶんでつくる！<ruby>手作<rt>てづく</rt></ruby>り<ruby>分光器<rt>ぶんこうき</rt></ruby>の<ruby>台紙<rt>だいし</rt></ruby></h1>
+    
+    <div class="intro">
+      <p style="margin: 0;">
+        イベントでくばったシート（グレーチングシート）をつかって、<ruby>光<rt>ひかり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にどんな<ruby>色<rt>いろ</rt></ruby>があるかを<ruby>調<rt>しら</rt></ruby>べる<strong>「<ruby>分光器<rt>ぶんこうき</rt></ruby>」</strong>を<ruby>作<rt>つく</rt></ruby>ってみよう！
+      </p>
     </div>
 
-    <!-- テキスト主体のファイル配布枠 -->
-    <div class="file-download-box">
-      <div class="file-download-label">【印刷用台紙ファイル】</div>
-      <a href="spectroscope_1000pmm_body_template_095.pdf" class="file-link" target="_blank" rel="noopener">
-        📄 台紙ファイル を開く（PDFファイル）
-      </a>
+    <div class="warning">
+      <span class="warning-title">⚠️【ぜったいに まもってね！】</span>
+      かんせいした<ruby>分光器<rt>ぶんこうき</rt></ruby>で、<strong>ぜったいに<ruby>太陽<rt>たいよう</rt></ruby>を<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>見<rt>み</rt></ruby>てはいけません。</strong><br>
+      <ruby>目<rt>め</rt></ruby>をいためて、ものが<ruby>見<rt>み</rt></ruby>えなくなってしまう<ruby>危険<rt>きけん</rt></ruby>があります。<br>
+      ※お<ruby>部屋<rt>へや</rt></ruby>のあかりや、そらの<ruby>明<rt>あか</rt></ruby>るいところ（<ruby>太陽<rt>たいよう</rt></ruby>からはなれた<ruby>場所<rt>ばしょ</rt></ruby>）を<ruby>見<rt>み</rt></ruby>てみよう！
+    </div>
+
+    <h2>1. <ruby>台紙<rt>だいし</rt></ruby>を<ruby>印刷<rt>いんさつ</rt></ruby>しよう</h2>
+    <p style="font-size: 0.9rem;">
+      <ruby>下<rt>した</rt></ruby>のリンクをおすと、<ruby>印刷用<rt>いんさつよう</rt></ruby>のPDFファイルが<ruby>開<rt>ひら</rt></ruby>きます。おうちのプリンターで<ruby>印刷<rt>いんさつ</rt></ruby>してください。
+    </p>
+
+    <div class="link-section">
+      <div>
+        📄 <a href="spectroscope_1000pmm_body_template_095.pdf" class="doc-link" target="_blank" rel="noopener"><ruby>台紙<rt>だいし</rt></ruby>ファイルをおす（PDF）</a>
+      </div>
       <div class="file-meta">
-        ※タップ（クリック）するとブラウザ上でPDFが開きます。そのまま印刷または保存してください。
+        ※イベントで<ruby>配<rt>くば</rt></ruby>ったシート（1ミリに1000<ruby>本<rt>ぽん</rt></ruby>のみぞがあるシート）<ruby>用<rt>よう</rt></ruby>の<ruby>台紙<rt>だいし</rt></ruby>です。
       </div>
     </div>
 
     <div class="note-box">
-      <strong>印刷時の注意点：</strong>
+      <strong><ruby>印刷<rt>いんさつ</rt></ruby>するときのおねがい（おうちのひとと<ruby>確認<rt>かくにん</rt></ruby>してね）：</strong>
       <ul>
-        <li>用紙サイズ：<strong>A4</strong></li>
-        <li>印刷倍率：<strong>「拡大/縮小なし（100% / 等倍・原寸）」</strong>を選択してください</li>
-        <li>少し厚めの画用紙や工作用紙に印刷すると、しっかり組み立てられ、外からの光漏れも防げます。</li>
+        <li><ruby>紙<rt>かみ</rt></ruby>のサイズ：<strong>A4</strong></li>
+        <li><ruby>印刷<rt>いんさつ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさ：<strong>「<ruby>拡大<rt>かくだい</rt></ruby>・<ruby>縮小<rt>しゅくしょう</rt></ruby>なし（100% / <ruby>等倍<rt>とうばい</rt></ruby>・<ruby>原寸<rt>げんすん</rt></ruby>）」</strong>を<ruby>選<rt>えら</rt></ruby>んでください</li>
+        <li>すこし<ruby>厚<rt>あつ</rt></ruby>めの<strong><ruby>画用紙<rt>がようし</rt></ruby></strong>や<strong><ruby>工作用紙<rt>こうさくようし</rt></ruby></strong>に<ruby>印刷<rt>いんさつ</rt></ruby>すると、しっかり<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>てられて、すきまから<ruby>光<rt>ひかり</rt></ruby>がもれにくくなります。</li>
       </ul>
     </div>
 
-    <h2>組み立て方の説明動画</h2>
+    <h2>2. <ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>（<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>て<ruby>動画<rt>どうが</rt></ruby>）</h2>
     <p style="font-size: 0.9rem;">
-      youtubeで見ることができます。
-    <a href="https://youtu.be/cRWYEPbYi9M">
-      https://youtu.be/cRWYEPbYi9M
-    </a>
+      <ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>ての<ruby>手順<rt>てじゅん</rt></ruby>は、YouTubeの<ruby>動画<rt>どうが</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>できます。
     </p>
-    
-    <h2>グレーチングシート（回折格子）の入手について</h2>
-    <p style="font-size: 0.9rem;">
-      イベント当日に配布したフィルムは、約2cm角にカットしたグレーチングシート（1,000本/mm）です。<br>
-      ご家庭で新しく作る場合や、追加で材料を用意したい場合は、以下の理科教材販売サイト等で購入できます。
-    </p>
-    <div class="note-box">
-      <strong>参考購入先（理科教材）：</strong><br>
-      シート式回折格子： レプリカグレーチングシート 1000 (カタログNo : D20-1840) <br>
-      <a href="https://www.scibox.jp/products/d20-1840/" class="external-link" target="_blank" rel="noopener">
-        https://www.scibox.jp/products/d20-1840/
-      </a>
-      <p style="margin: 8px 0 0 0; color: #57606a; font-size: 0.85rem;">
-        ※購入したシート（305×152mm）をハサミで約2cm角に切り分けて使用します。
-      </p>
+    <div class="link-section">
+      🎥 <a href="https://youtu.be/cRWYEPbYi9M" class="doc-link" target="_blank" rel="noopener">YouTubeで<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>て<ruby>方<rt>かた</rt></ruby>の<ruby>説明動画<rt>せつめいどうが</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</a>
+      <div class="file-meta">
+        ※<ruby>外部<rt>がいぶ</rt></ruby>サイト（YouTube）へ<ruby>移動<rt>いどう</rt></ruby>して<ruby>動画<rt>どうが</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>きます。
+      </div>
     </div>
 
-    <h2>長い直方体タイプの手作り分光器について</h2>
-    <p style="font-size: 0.9rem;">
-      なお、長い直方体タイプの手作り分光器もあります。こちらは、1mmに500本のグレーチングシートが丁度良いです。
-    </p>
+    <!-- 保護者・大人向けの情報枠 -->
+    <div class="parent-section">
+      <span class="parent-tag">おうちの方・指導者の方へ</span>
+      
+      <h2>材料（シート）の追加購入について</h2>
+      <p style="font-size: 0.85rem; color: #444;">
+        イベントで配布したフィルムは、約2cm角にカットした「レプリカグレーチングシート（1,000本/mm）」です。<br>
+        新しく作りたい場合や、学校・クラブ等で用意される場合は、理科教材販売サイト等で購入できます。
+      </p>
+      <div class="note-box" style="font-size: 0.85rem;">
+        <strong>参考購入先：</strong><br>
+        シート式回折格子：レプリカグレーチングシート 1000（カタログNo: D20-1840）<br>
+        <a href="https://www.scibox.jp/products/d20-1840/" class="external-link" target="_blank" rel="noopener">
+          https://www.scibox.jp/products/d20-1840/
+        </a>
+        <p style="margin: 6px 0 0 0; color: #57606a;">
+          ※シート（305×152mm）をハサミで約2cm角に切り分けて使用します。
+        </p>
+      </div>
 
-      <a href="spectroscope_body_template_095.pdf" class="file-link" target="_blank" rel="noopener">
-        📄 長いタイプの台紙ファイル を開く（PDFファイル）
-      </a><BR>
+      <h2>長い直方体タイプ（500本/mm用）について</h2>
+      <p style="font-size: 0.85rem; color: #444;">
+        筒が長い「直方体タイプ」の台紙データもあります。こちらは1mmあたり500本のみぞがあるシートに適しています。
+      </p>
+      <div class="link-section" style="margin-bottom: 12px; font-size: 0.9rem;">
+        📄 <a href="spectroscope_body_template_095.pdf" class="doc-link" target="_blank" rel="noopener">長いタイプの台紙ファイルを開く（PDF）</a>
+      </div>
+      <div class="note-box" style="font-size: 0.85rem;">
+        対応シート：レプリカグレーチングシート 500（カタログNo: D20-1838）<br>
+        <a href="https://www.scibox.jp/products/d20-1838/" class="external-link" target="_blank" rel="noopener">
+          https://www.scibox.jp/products/d20-1838/
+        </a>
+        <p style="margin: 6px 0 0 0; color: #57606a;">
+          ※もし長いタイプに1000本/mmのシートを貼った場合は、のぞき穴を下側からのぞき込むと光が見えます。
+        </p>
+      </div>
 
-    <p style="font-size: 0.9rem;">
-      シート式回折格子： レプリカグレーチングシート 500 (カタログNo : D20-1838) <BR>
-      <a href="https://www.scibox.jp/products/d20-1838/" class="external-link" target="_blank" rel="noopener">
-        https://www.scibox.jp/products/d20-1838/
-      </a><BR>
-      もし長いタイプに1000本/mmのグレーチングシートを貼り付けた場合は、のぞき窓をやや下から覗き込むと光が見えます。
-    </p>
-     
-    <h2>その他</h2>
-    <p style="font-size: 0.9rem;">
-     台紙などの情報は<a href="https://github.com/aitcmdt/diy-spectro-sheet2026"  class="external-link" target="_blank" rel="noopener">こちら</a>に保存してあります。ご興味のあるかたは確認してみてください。
-    </p>
-
+      <h2>プロジェクト情報</h2>
+      <p style="font-size: 0.85rem; color: #444;">
+        台紙データおよび関連情報は <a href="https://github.com/aitcmdt/diy-spectro-sheet2026" class="external-link" target="_blank" rel="noopener">GitHubリポジトリ</a> にて公開しています。
+      </p>
+    </div>
 
   </div>
 </body>
